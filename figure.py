@@ -1,7 +1,7 @@
 """
-figure 모듈은 그림과 관련된 함수 및 클래스를 제공하는 모듈입니다.
-line class를 이용하여 선의 길이를 설정/참조를 수행하며
-area_square, area_circle, area_regular_triangle 함수로
+figure 모듈은 도형과 관련된 함수 및 클래스를 제공하는 모듈입니다.
+line class를 이용하여 선의 길이를 설정하고 반환할 수 있으며,
+area_square, area_circle, area_regular_triangle 함수는
 각각 정사각형, 원, 정삼각형의 넓이를 반환합니다.
 """
 import math
